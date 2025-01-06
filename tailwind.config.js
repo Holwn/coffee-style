@@ -25,6 +25,9 @@ module.exports = {
       animation: {
         slideDown: 'slideDown .4s ease-in-out',
       },
+      backgroundImage: {
+        'coffee-1-slider': 'url("/img/slider/coffee-1-slider.jpg")',
+      }
     },
   },
   plugins: [],
