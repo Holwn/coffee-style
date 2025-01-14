@@ -35,5 +35,9 @@
 }
 
 .hso-subheadline-label {
-  @apply uppercase mx-4 tracking-widest text-gray-500 text-[12px] text-center;
+  @apply uppercase mx-4 tracking-widest text-gray-500 text-xs text-center;
+}
+
+.hso-button {
+  @apply text-center uppercase tracking-wider px-8 py-4 cursor-pointer text-[13px] font-semibold hover:bg-opacity-90;
 }
