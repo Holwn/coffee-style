@@ -12,9 +12,12 @@ module.exports = {
           100: '#E2E2D5',
           200: '#888883',
         },
-        'light-coffee': {
-          500: '#C89F94',
-        }
+        'coffee': {
+          50: '#E8D6D0',
+          200: '#C89F94',
+          400: '#A25F4B',
+          600: '#744838',
+        },
       },
       keyframes: {
         slideDown: {
