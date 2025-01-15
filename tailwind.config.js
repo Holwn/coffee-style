@@ -3,6 +3,10 @@ module.exports = {
   content: ["./public/**/*.{html,js}"],
   theme: {
     extend: {
+      screens: {
+        'xs': '480px',
+        'mdd': '900px',
+      },
       fontFamily: {
         karla: ['Karla', 'sans-serif'],
       },
